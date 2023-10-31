@@ -10,7 +10,7 @@ ALL CommandLine for gitHub
             - gh auth login
             - gh repo create
             - cd banhmiChaySG
-            - Open folder nay Len Va Paste Project Vao
+            Open folder nay Len Va Paste Project Vao
             - git checkout banhmiChaySG
             - git add .
             - git commit -am "Description File Or Project Commit to Git"
